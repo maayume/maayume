@@ -11,5 +11,5 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=maayume&label=Total%20de%20visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="maayume" width="110" height="27" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username={maayume}" alt="maayume" width="110" height="27" />
+  https://github-profile-trophy.vercel.app/?username={maayume}
 </p>
