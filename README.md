@@ -1,6 +1,6 @@
 <h1>Olá! Sou a Mayume</h1>
 
-<p>Estudante de Engenharia Mecatrônica na instituição UTFPR, realizo o bootcamp de Dev Full Stack na Gama Academy. E atualmente estou buscando oportunidades para estagiar na área.</p>
+<p>Estudante do 5º período de engenharia mecatrônica da UTFPR e participante do bootcamp de web devepment da Gama Academy. Atualmente estou buscando oportunidades para trabalhar na área.</p>
 
 <h4>Linguagens:</h4>
 
