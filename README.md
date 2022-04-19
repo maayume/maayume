@@ -1,7 +1,7 @@
-<h1>Hi! I'm Mayume</h1>
+<i><h1>Hi! I'm Mayume</h1>
 
-<p>Student of 5th period of Mechatronics Engineering at UTFPR</p>
-<p> Participant of bootcamp of Web Devepment at Gama Academy</p>
+<p>Student of 5th period of Mechatronics Engineering at <a href="http://www.utfpr.edu.br/">UTFPR</a></p>
+<p> Participant of bootcamp of Web Devepment at <a href="https://www.gama.academy/">Gama Academy</a></p>
 
 <h4>Languages:</h4>
 
@@ -12,4 +12,4 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=maayume&label=Total%20de%20visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="maayume" width="110" height="27" />
  
-</p>
+</p></i>
