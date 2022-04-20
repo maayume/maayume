@@ -2,6 +2,7 @@
   
 <p>Student of 5th period of Mechatronics Engineering at <a href="http://www.utfpr.edu.br/">UTFPR</a></p>
 <p>Participant of bootcamp of Web Devepment at <a href="https://www.gama.academy/">Gama Academy</a></p>
+<p>Volunteer at AIESEC</p>
 
 <h4>Languages:</h4>
 
