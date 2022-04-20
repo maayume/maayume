@@ -1,4 +1,4 @@
-<i><h1><font style="color: rgb(65,105,225)">Hi! I'm Mayume</font></h1>
+<i><h1><font style="color:rgb(65,105,225)">Hi! I'm Mayume</font></h1>
   
 <p>Student of 5th period of Mechatronics Engineering at <a href="http://www.utfpr.edu.br/">UTFPR</a></p>
 <p> Participant of bootcamp of Web Devepment at <a href="https://www.gama.academy/">Gama Academy</a></p>
