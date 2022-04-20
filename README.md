@@ -11,6 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" /> 
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=maayume&label=Total%20de%20visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="maayume" width="110" height="27" />
-  <img href="https://www.linkedin.com/in/mayume-cristine/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maayume" width="110" height="27" />
+  <a href="https://www.linkedin.com/in/mayume-cristine/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maayume" width="110" height="27" /></a>
   <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maayume&theme=onedark&row=1&margin-w=5" alt="maayume" /></a> </p> 
 </p></i>
