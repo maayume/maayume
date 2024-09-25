@@ -1,6 +1,6 @@
 <i><h1 align="center">Hi! I'm Mayume</h1>
   
-<p>Student of 5th period of Mechatronics Engineering at <a href="http://www.utfpr.edu.br/">UTFPR-CT</a></p>
+<p>Student of 8th period of Mechatronics Engineering at <a href="http://www.utfpr.edu.br/">UTFPR-CT</a></p>
 <p>Participant of Web Devepment bootcamp at <a href="https://www.gama.academy/">Gama Academy</a></p>
 
 <h4>Languages:</h4>
